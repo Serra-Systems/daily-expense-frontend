@@ -1,1 +1,3 @@
-# daily-expense-frontend
+# Stack
+
+ - Nextjs
